@@ -4,6 +4,9 @@ You have this repo and show me what you got, i am open to pulls!!!!
 I think this will get you guys started:
 <a href="https://tiny-url-service.herokuapp.com/zcIpCb">Tutorial_on_PR</a>  <!-- This URL is shortened by URL shortner made by Vishal B-) check it out on vcode11 -->
 <hr>
+thank you sir for letting us know about git and github!
+<hr>
+=======
 It is good that we have such Workshops!!!
 =======
 <hr>
@@ -18,4 +21,3 @@ Yes we are here for free t-shirt
 ### By Luv
 <h1>Good evening sir</h1>
 Freeeeeeeeeeeeee Tshirts Hahahahahahhahahahahahahahahhaha
-
