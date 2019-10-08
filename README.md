@@ -8,23 +8,22 @@ I think this will get you guys started:
 <hr>
 thank you sir for letting us know about git and github!
 <hr>
-=======
-It is good that we have such Workshops!!!
-=======
+=======It is good that we have such Workshops!!!=======
 <hr>
-yes sir,we are here for t-shirts and stickers
-=======
+yes sir,we are here for t-shirts and stickers=======
 <hr>
-Hello sir ,hope u r doing well
-i am new to github <hr>
-Hello Sir,
-Yes we are here for free t-shirt
+Hello sir ,hope u r doing well i am new to github
+<hr>
+Hello Sir, Yes we are here for free t-shirt
 
 ### By Luv
 <h1>Good evening sir</h1>
-
-
-<h1>hello sir , Satyam here</h1><hr>
-
-Freeeeeeeeeeeeee Tshirts Hahahahahahhahahahahahahahahhaha<hr>
+<hr>
+<h1>hello sir , Satyam here</h1>
+<hr>
+Freeeeeeeeeeeeee Tshirts Hahahahahahhahahahahahahahahhaha
+<hr>
 Thank you, sir.
+<hr>
+Sir thanks for this repo
+<hr>
